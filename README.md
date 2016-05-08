@@ -26,8 +26,7 @@ Here, have a list of all the methods:
 This gem is not yet publishing on RubyGems.org so You'll have to install 
 it this way for now:
 
-1. clone or download the repo
-2. fire up terminal and cd to the directory
+First clone or download the repo then fire up terminal and cd to the directory
 
 	$ gem build gspec.gemspec
 	$ ls # look for gfunc*.gem.

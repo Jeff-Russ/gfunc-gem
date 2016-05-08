@@ -3,7 +3,7 @@
 Gfunc is a small collection of multi-purpose utilities by Jeff-Russ
 
 GFunc == Global Functions and yes, I know that "top-level functions"
-are actually methods of the Object class but I'd rather the name be 
+are actually methods of the Object class but Gmeth? I'd rather the name be 
 a reference to G-funk than METHAMPHETAMINE.
 
 Here, have a list of all the methods:
@@ -69,6 +69,4 @@ Display (heavily commented) code:
 Display this message again:
 
 	puts $gfunc_info
-
-More info: https://github.com/Jeff-Russ/gfunc-gem
 

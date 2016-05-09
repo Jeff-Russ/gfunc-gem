@@ -6,6 +6,12 @@ GFunc == Global Functions and yes, I know that "top-level functions"
 are actually methods of the Object class but Gmeth? I'd rather the name be 
 a reference to G-funk than METHAMPHETAMINE.
 
+Most methods in this collection started with me saying to myself "why is this 
+not a built-in for Ruby?" or "why am I typing 4 lines of code for this thing 
+I do dozens of times every day?" Most have universal usefulness, like 
+`starts_upper?` but some are more odd like methods for running migrations 
+from Ruby rather than the terminal because why not?!
+
 Here, have a list of all the methods:
 
 	file_insert    file_to_a    s_to_file    ls_grep?    locate_def

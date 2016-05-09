@@ -21,21 +21,26 @@ Here, have a list of all the methods:
 	prepend_each   append_each    wrap_each
 
 
-### Installation
+### RubyGems.org Installation
 
-This gem is not yet publishing on RubyGems.org so You'll have to install 
-it this way for now:
+This gem is now publishing on RubyGems.org so you can install it this way:
 
-First clone or download the repo then fire up terminal and cd to the directory
+Eventually You'll be able install this way instead:
+
+	$ gem install 'gfunc'
+	
+or...
+
+### Install from Source
+
+Download or clone the repo then fire up terminal and cd to the directory
 
 	$ gem build gspec.gemspec
 	$ ls # look for gfunc*.gem.
 	$ # Your version number might differ:
 	$ gem install ./gfunc-0.0.1.gem 
 
-Eventually You'll be able install this way instead:
 
-	$ gem install 'gfunc'
 
 Optionally, add to Ruby on Rails Gemfile
 

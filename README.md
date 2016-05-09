@@ -25,8 +25,6 @@ Here, have a list of all the methods:
 
 This gem is now publishing on RubyGems.org so you can install it this way:
 
-Eventually You'll be able install this way instead:
-
 	$ gem install 'gfunc'
 	
 or...
